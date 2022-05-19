@@ -18,8 +18,7 @@ section{
 }
 
 .footer{
-    width: 100%;
-    height: 50px;
+    height: 20px;
     padding-left: 10px;
     line-height: 50px;
     background: #333;
@@ -28,9 +27,8 @@ section{
 
  #copyright{
 	bottom: 0;
-    width: 100%;
     position: fixed;
-    height:50px;
+    height:20px;
     line-height:50px;
     background:#3c3a3a;
     color:#fff;
